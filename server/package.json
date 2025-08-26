@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "new apis practice",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+   "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meghana610/expressSetup8.git"
+  },
+  "keywords": [
+    "put",
+    "post",
+    "delete",
+    "try",
+    "catch"
+  ],
+  "author": "Meghana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meghana610/expressSetup8/issues"
+  },
+  "homepage": "https://github.com/meghana610/expressSetup8#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
